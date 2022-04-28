@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1651175307 source:c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\main.c
+	"main.h"
+
+1650985807 c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\main.h
+	"opMaestro.h"
+
+1651182253 c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\opmaestro.h
+	<stdio.h>
+	"estructuras.h"
+	"trozadoArchTexto.h"
+
+1651084508 c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\estructuras.h
+
+1651182716 source:c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\opmaestro.c
+	"opMaestro.h"
+
+1651181889 c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\trozadoarchtexto.h
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+
+1651181872 source:c:\users\eslou\desktop\programacion-2\archivos\maestrodestock\trozadoarchtexto.c
+	"trozadoArchTexto.h"
+
