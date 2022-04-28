@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649795562 source:c:\users\eslou\desktop\programacion-2\matrices\algebradematrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mostrarPartesDeMatriz.h"
+
+1649795517 source:c:\users\eslou\desktop\programacion-2\matrices\algebradematrices\mostrarpartesdematriz.c
+	"mostrarPartesDeMatriz.h"
+
+1649794290 c:\users\eslou\desktop\programacion-2\matrices\algebradematrices\mostrarpartesdematriz.h
+	<stdio.h>
+
