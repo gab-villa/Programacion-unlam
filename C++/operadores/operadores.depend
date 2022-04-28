@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1622909000 source:/home/gabu/Escritorio/1er-c-2021/programacion-2/TCP/operadores/operadores/main.cpp
+	<iostream>
+	<stdlib.h>
+	"vector.h"
+
+1622339156 /home/gabu/Escritorio/1er-c-2021/programacion-2/TCP/operadores/operadores/vector.h
+	<iostream>
+
+1622339077 source:/home/gabu/Escritorio/1er-c-2021/programacion-2/TCP/operadores/operadores/vector.cpp
+	"vector.h"
+
+1648906767 source:/home/gabu/Escritorio/programacion-2/TCP/operadores/operadores/main.cpp
+	<iostream>
+	<stdlib.h>
+	"vector.h"
+
+1648906767 /home/gabu/Escritorio/programacion-2/TCP/operadores/operadores/vector.h
+	<iostream>
+
+1648905551 source:/home/gabu/Escritorio/programacion-2/TCP/operadores/operadores/vector.cpp
+	"vector.h"
+
+1648917566 source:c:\users\eslou\desktop\programacion-2\tcp\operadores\operadores\main.cpp
+	<iostream>
+	<stdlib.h>
+	"vector.h"
+
+1648917566 c:\users\eslou\desktop\programacion-2\tcp\operadores\operadores\vector.h
+	<iostream>
+

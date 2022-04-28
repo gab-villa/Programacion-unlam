@@ -1,0 +1,16 @@
+#include <iostream>
+#include <stdlib.h>
+#include "vector.h"
+using namespace std;
+
+int main()
+{
+    Vector v(1,2,3), w(3,2,2), u(2,7,9),suma, prod;
+    suma = v+w+u;
+    
+    mostrarVector(suma);
+    prod = v*u*w;
+    mostrarVector(prod);
+
+    return 0;
+}

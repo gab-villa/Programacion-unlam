@@ -1,0 +1,21 @@
+#include "vector.h"
+Vector::Vector(float _x, float _y, float _z)
+{
+    x = _x;
+    y = _y;
+    z = _z;
+}
+Vector Vector::operator+(const Vector &v)
+{
+    return Vector(x + v.x , y + v.y , z + v.z);
+}
+Vector Vector::operator*(const Vector &v)
+{
+    return Vector(x*v.x , y*v.y , z*v.z);
+}
+Vector operator^(const Vector &vec){
+    
+}
+void Vector::mostrarVector(){
+    cout <<"("<<x<<","<<y<<","<<z<<")"<<endl;
+}
