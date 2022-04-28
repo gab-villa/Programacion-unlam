@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650040532 source:c:\users\eslou\desktop\programacion-2\cadenas\atoi_itoa\arrayintparser.c
+	"ArrayIntParser.h"
+
+1650040532 c:\users\eslou\desktop\programacion-2\cadenas\atoi_itoa\arrayintparser.h
+
+1650040863 source:c:\users\eslou\desktop\programacion-2\cadenas\atoi_itoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayIntParser.h"
+

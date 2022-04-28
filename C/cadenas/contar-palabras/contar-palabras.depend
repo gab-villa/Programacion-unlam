@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649881310 source:c:\users\eslou\desktop\programacion-2\cadenas\contar-palabras\contarpalabras.c
+	"ContarPalabras.h"
+
+1649881090 c:\users\eslou\desktop\programacion-2\cadenas\contar-palabras\contarpalabras.h
+
+1649881658 source:c:\users\eslou\desktop\programacion-2\cadenas\contar-palabras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ContarPalabras.h"
+
