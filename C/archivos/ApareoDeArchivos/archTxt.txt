@@ -1,0 +1,6 @@
+1;arroz blanco;400;110.5
+10;Caballa en aceite;500;360.5
+30;Atun;300;260.5
+55;bizcochuelo;300;150.5
+61;flan;400;110.5
+120;gelatina;200;120.3

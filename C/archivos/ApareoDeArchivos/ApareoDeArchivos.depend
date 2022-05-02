@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1651463642 source:c:\users\eslou\desktop\programacion-2\archivos\apareodearchivos\main.c
+	"main.h"
+
+1651464106 source:c:\users\eslou\desktop\programacion-2\archivos\apareodearchivos\apareodearchivos.c
+	"ApareoDeArchivos.h"
+
+1651463537 c:\users\eslou\desktop\programacion-2\archivos\apareodearchivos\apareodearchivos.h
+	"estructuras.h"
+	<stdio.h>
+	<string.h>
+
+1651451146 c:\users\eslou\desktop\programacion-2\archivos\apareodearchivos\estructuras.h
+
+1651456065 c:\users\eslou\desktop\programacion-2\archivos\apareodearchivos\main.h
+	<stdio.h>
+	"ApareoDeArchivos.h"
+
