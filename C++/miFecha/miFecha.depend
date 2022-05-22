@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652649991 source:c:\users\eslou\desktop\mifecha\mifecha.cpp
+	"miFecha.h"
+
+1653235274 c:\users\eslou\desktop\mifecha\mifecha.h
+	<ctime>
+	<iostream>
+	<stdio.h>
+
+1652650027 source:c:\users\eslou\desktop\mifecha\main.cpp
+	<iostream>
+	"miFecha.h"
+
