@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1649034208 source:c:\users\eslou\desktop\programacion-2\parcial-1\32-bits\mi_cadena\main.cpp
+	<iostream>
+	"cadenaMio.h"
+
+1649036022 .h"
+
+1649036022 source:c:\users\eslou\desktop\programacion-2\parcial-1\32-bits\mi_cadena\cadenamio.cpp
+	"cadenaMio.h"
+
+1649037195 c:\users\eslou\desktop\programacion-2\parcial-1\32-bits\mi_cadena\cadenamio.h
+	<iostream>
+	<string.h>
+
+1649037195 
+
+1649025224 source:/media/gabu/LINUX MINT/mi_cadena/cadenaMio.cpp
+	"cadenaMio.h"
+
+1649369986 /media/gabu/LINUX MINT/mi_cadena/cadenaMio.h
+	<iostream>
+	<string.h>
+
+1651923996 source:/media/gabu/LINUX MINT/mi_cadena/main.cpp
+	<iostream>
+	"cadenaMio.h"
+
+1653234604 source:c:\users\eslou\desktop\programacion-2\tcp\mi_cadena\cadenamio.cpp
+	"cadenaMio.h"
+
+1653234643 c:\users\eslou\desktop\programacion-2\tcp\mi_cadena\cadenamio.h
+	<iostream>
+	<string.h>
+
+1653151283 source:c:\users\eslou\desktop\programacion-2\tcp\mi_cadena\main.cpp
+	<iostream>
+	"cadenaMio.h"
+
